@@ -1,12 +1,12 @@
-# リポジトリタイトル
+# Kong Custom Plugins
 
 ## 概要
 
-こちらのリポジトリを継承してリポジトリを作成する。
+Kong Custom Pluginsを管理するリポジトリ
 
 ## 目次
 
-- [リポジトリタイトル](#リポジトリタイトル)
+- [Kong Custom Plugins](#kong-custom-plugins)
   - [概要](#概要)
   - [目次](#目次)
   - [共通事項](#共通事項)
